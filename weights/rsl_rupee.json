@@ -72,7 +72,7 @@
     },
     "multiselect": {
         "key_rings": 20,
-        "silver_rupee_pouches": 100,
+        "silver_rupee_pouches": 0,
         "dungeon_shortcuts": 0,
         "mix_entrance_pools": 30,
         "spawn_positions": 50,
@@ -140,9 +140,9 @@
             "anywhere": 1
         },
         "silver_rupee_pouches_choice": {
-            "off": 0,
+            "off": 1,
             "choice": 0,
-            "all": 1,
+            "all": 0,
             "random": 0
         },
         "correct_potcrate_appearances": {
@@ -668,10 +668,10 @@
             "witching-hour": 1
         },
         "item_pool_value": {
-            "plentiful": 1,
+            "plentiful": 0,
             "balanced": 4,
             "scarce": 2,
-            "minimal": 0,
+            "minimal": 1,
             "ludicrous": 0
         },
         "junk_ice_traps": {
