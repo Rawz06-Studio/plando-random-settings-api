@@ -131,18 +131,18 @@
             "false": 1
         },
         "shuffle_silver_rupees": {
-            "remove": 0,
+            "remove": 1,
             "vanilla": 0,
             "dungeon": 1,
             "overworld": 0,
             "any_dungeon": 0,
             "regional": 1,
-            "anywhere": 1
+            "anywhere": 0
         },
         "silver_rupee_pouches_choice": {
-            "off": 1,
+            "off": 0,
             "choice": 0,
-            "all": 0,
+            "all": 1,
             "random": 0
         },
         "correct_potcrate_appearances": {
@@ -238,7 +238,7 @@
         },
         "triforce_hunt": {
             "true": 1,
-            "false": 9
+            "false": 19
         },
         "one_item_per_dungeon": {
             "true": 0,
@@ -349,8 +349,8 @@
         "tokensanity": {
             "off": 10,
             "dungeons": 4,
-            "overworld": 4,
-            "all": 2
+            "overworld": 2,
+            "all": 1
         },
         "shuffle_scrubs": {
             "off": 5,
@@ -668,10 +668,10 @@
             "witching-hour": 1
         },
         "item_pool_value": {
-            "plentiful": 0,
-            "balanced": 4,
-            "scarce": 2,
-            "minimal": 1,
+            "plentiful": 1,
+            "balanced": 6,
+            "scarce": 5,
+            "minimal": 0,
             "ludicrous": 0
         },
         "junk_ice_traps": {
@@ -733,10 +733,10 @@
             "false": 1
         },
         "shuffle_enemy_spawns": {
-            "off": 18,
+            "off": 1,
             "all": 0,
-            "bosses": 1,
-            "regional": 1
+            "bosses": 0,
+            "regional": 0
         },
         "shuffle_fairies_choice": {
             "off": 1,
