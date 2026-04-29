@@ -72,7 +72,7 @@
     },
     "multiselect": {
         "key_rings": 20,
-        "silver_rupee_pouches": 0,
+        "silver_rupee_pouches": 100,
         "dungeon_shortcuts": 0,
         "mix_entrance_pools": 30,
         "spawn_positions": 50,
@@ -111,8 +111,8 @@
         "shuffle_freestanding_items": {
             "off": 0,
             "all": 1,
-            "overworld": 2,
-            "dungeons": 2
+            "overworld": 1,
+            "dungeons": 1
         },
         "shuffle_pots": {
             "off": 1,
@@ -131,13 +131,13 @@
             "false": 1
         },
         "shuffle_silver_rupees": {
-            "remove": 1,
-            "vanilla": 0,
-            "dungeon": 1,
-            "overworld": 0,
+            "remove": 40,
+            "vanilla": 30,
+            "dungeon": 15,
+            "overworld": 5,
             "any_dungeon": 0,
-            "regional": 1,
-            "anywhere": 0
+            "regional": 10,
+            "anywhere": 5
         },
         "silver_rupee_pouches_choice": {
             "off": 0,
@@ -238,7 +238,7 @@
         },
         "triforce_hunt": {
             "true": 1,
-            "false": 19
+            "false": 9
         },
         "one_item_per_dungeon": {
             "true": 0,
@@ -349,8 +349,8 @@
         "tokensanity": {
             "off": 10,
             "dungeons": 4,
-            "overworld": 2,
-            "all": 1
+            "overworld": 4,
+            "all": 2
         },
         "shuffle_scrubs": {
             "off": 5,
@@ -668,10 +668,10 @@
             "witching-hour": 1
         },
         "item_pool_value": {
-            "plentiful": 1,
-            "balanced": 6,
-            "scarce": 5,
-            "minimal": 0,
+            "plentiful": 5,
+            "balanced": 70,
+            "scarce": 20,
+            "minimal": 5,
             "ludicrous": 0
         },
         "junk_ice_traps": {
@@ -733,10 +733,10 @@
             "false": 1
         },
         "shuffle_enemy_spawns": {
-            "off": 1,
+            "off": 18,
             "all": 0,
-            "bosses": 0,
-            "regional": 0
+            "bosses": 1,
+            "regional": 1
         },
         "shuffle_fairies_choice": {
             "off": 1,
